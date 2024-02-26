@@ -1,0 +1,185 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    }
+    
+    .wrapper {
+        height: 100vh;
+        width: 100vw;
+    }
+    
+    .contanier-left {
+       display: inline-block;
+       width: 50%;
+     
+    }
+    
+    
+    .contanier-right {
+       display: inline-block;
+       width: 50%;
+       position: absolute;
+       top: 40%;
+       margin-left: 825px;
+    } 
+    
+    header {
+     margin: 47px 0px 0px 42px; 
+    }
+    
+    img {
+        margin-top: 163px;
+        margin-left: 121px;
+    }
+       
+    
+    
+    
+    .link-header {
+     margin-right: 32px; 
+     font-size: 14px;
+     font-weight: 400;
+     line-height: 21px;
+     letter-spacing: 0.875px;
+     cursor: pointer;
+    }
+    
+    .button-header {
+        width: 124px;
+        height: 51px;
+        border: 1px;
+        border: 1px solid #4CB538;
+        border-radius: 10px ;
+        background: linear-gradient(0deg, #4CB538, #4CB538),
+        linear-gradient(0deg, #6FBF44, #6FBF44);
+        color: #ffffff;
+        cursor: pointer;
+    }
+    
+    
+    
+    
+    h1 {
+        width: 582px;
+        height: 164px;
+        font-size: 62px;
+        font-weight: 700;
+        line-height: 82px;
+        letter-spacing: 0.5961538553237915px;
+        text-align: left;
+        color: #161A49;
+    }
+    
+    p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        text-align: left;
+        width: 493px;
+        height: 99px;
+        color: #4B505A;
+        margin-top: 47px;
+        margin-bottom: 55px;
+    }
+    
+    
+    .link-section {
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        letter-spacing: 1px;
+        width: 112px;
+        height: 27px;
+        color: #6FBF44;
+    }
+    
+     @media screen and (max-width:1200px) {
+     
+    
+    .wraaper {
+      width: 100vw;
+      height: 100vh
+    
+    }
+    
+    .contanier-left {
+        display: block;
+        width: 300px;
+        height: auto;
+    
+    }
+    
+    
+    .contanier-right {
+        display: block;
+        width: 300px;
+        
+        top: 124px;
+        margin-left: 55px;
+        margin-right: 55px;
+      }
+    
+    
+      .link-header {
+        display: none;
+    }
+    
+    
+    .button-header {
+      display: block;
+      width: 91px;
+      height: 31px;
+      border: 1px;
+      margin: -46px 15px 78px 250px;
+    
+    }
+    
+    
+    
+    
+    
+    h1 {
+        width: 278px;
+        height: 60px;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: 0.5961538553237915px;
+        text-align: center;
+    }
+    
+    p {
+        width: 304px;
+        height: 165px;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+        text-align: center;
+        margin-left: -16px;
+    }
+    
+    img {
+        width: 312px;
+        height: 288px; 
+        margin-top: 370px;
+        margin-left: 45px;
+    }
+    
+    .link-section {
+        display: block;
+        width: 112px;
+        height: 27px;   
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        letter-spacing: 1px;
+        margin: 26px 96px 0px 96px;  
+    }
+    
+    
+    }
+    
