@@ -10,4 +10,6 @@
 
 <img src="https://github.com/SidemarOliveira/Meu-primeiro-projeto--Resp.-01/blob/master/assets/figura01.png"> 
 <br>
+<div align="center">
 <img src="https://github.com/SidemarOliveira/Meu-primeiro-projeto--Resp.-01/blob/master/assets/figura02.png"height="600px">
+</div>
